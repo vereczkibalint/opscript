@@ -3,9 +3,9 @@
 A repo-ban található script kétféle módon működik. 
 
 1. Beolvassa az adatokat az email küldéséhez a billentyűzetről
-2. Beolvassa az adatokat az emailek.log fájlból, és automatikusan kiküldi az összes üzenetet
+2. Beolvassa az adatokat az emailek.txt fájlból, és automatikusan kiküldi az összes üzenetet
 
-Emailek.log felépítése:
+Emailek.txt felépítése:
 
 * 1. érték: címzett email címe
 * 2. érték: email tárgya
