@@ -6,7 +6,7 @@ KINEK=""
 TARGY=""
 UZENET=""
 
-printf "Kérlek válassz küldési módot:\n1) Manuális\n2) Automatikus (emailek.log)\n"
+printf "Kérlek válassz küldési módot:\n1) Manuális\n2) Automatikus (emailek.txt)\n"
 
 read -p "Küldési mód: " kuldesiMod
 
@@ -73,6 +73,6 @@ else
       else
         echo "Hibás email cím formátum!"
       fi
-  done <emailek.log
+  done <emailek.txt
   echo "Emailek kiküldve"
 fi
