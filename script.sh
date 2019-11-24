@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 KITOL="OPRendszer Script <mailgun@sandboxee0fa03278b6491c93e4dd2b6d1c73d2.mailgun.org>"
 
